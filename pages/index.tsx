@@ -68,6 +68,7 @@ export default function Home() {
               </tr>
             </thead>
             <tbody>
+              <p>100.000đ tiền wifi + 50.000đ nước lọc nha cả nhàaaaa</p>
               <tr className="bg-secondary-subtle">
                 <td >{TienDienNgoaiPhong.toLocaleString()} VNĐ</td>
                 <td >{SoTienCanDongTang3.toLocaleString()} VNĐ</td>
