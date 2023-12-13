@@ -63,8 +63,8 @@ export default function Home() {
             <thead>
               <tr>
                 <th scope="col" className="boder-text">Số Tiền Điện Ngoài Phòng</th>
-                <th scope="col" className="boder-text">Số Tiền Điện Tầng 3</th>
-                <th scope="col" className="boder-text">Số Tiền Điện Tầng 4</th>
+                <th scope="col" className="boder-text">Số Tiền Tầng 3</th>
+                <th scope="col" className="boder-text">Số Tiền Tầng 4</th>
               </tr>
             </thead>
             <tbody>
